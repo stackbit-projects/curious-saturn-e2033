@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for contacting me. I will get back in touch with you soon. Have a great day!
+      Thank you for contacting me. I will get back in touch with you soon. Have
+      a great day!
     actions:
       - label: Back to homepage
         url: /
@@ -16,4 +17,9 @@ sections:
     padding_bottom: large
     background_color: none
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
